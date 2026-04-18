@@ -72,17 +72,18 @@ The system includes:
 
 | S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
 |------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-| 1    |                   |                        |                      |              |         |             |                                     |
-| 2    |                   |                        |                      |              |         |             |                                     |
-| 3    |                   |                        |                      |              |         |             |                                     |
-| 4    |                   |                        |                      |              |         |             |                                     |
-| 5    |                   |                        |                      |              |         |             |                                     |
+| 1    |      89           |      8.039E-6          |      -20.948         |   50.4972    |    0    | 1.5678e-05  | 0.546875                            |  
+| 2    |      98           |      5.226E-6          |      -22.818         |   39.2867    |    0    | 1.02106e-07 | 0.546875                            |
+| 3    |      107          |      3.396E-6          |      -24.690         |   40.1904    |    0    | 6.72572e-07 | 0.546875                            |
+| 4    |      121          |      1.871E-6          |      -27.279         |   28.2175    |1.11e-290| 3.4076e-06  | 0.484375                            |
+| 5    |      140          |      780.089E-9        |      -31.079         |   21.3238    |6.241e-87| 1.37258e-07 | 0.609375                            |
+<img width="1600" height="1200" alt="WhatsApp Image 2026-04-18 at 2 22 02 PM" src="https://github.com/user-attachments/assets/93eefba4-33fd-4f17-9f9a-cfff396da993" />
 
 ---
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="1915" height="1193" alt="Screenshot 2026-04-18 135523" src="https://github.com/user-attachments/assets/4b32ee1e-2832-4b88-97fd-f683fd10ab0f" />
 
 ---
 
