@@ -88,5 +88,4 @@ The system includes:
 ---
 
 ## RESULT
-
-*(Summarize key findings from simulation and analysis)*
+The OptiPerformer simulation of the optical communication system was successfully executed, and system performance was analyzed for different fiber lengths. It was observed that as fiber length increased, the received power decreased and BER increased, degrading the overall signal quality.
